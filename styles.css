@@ -149,10 +149,6 @@ a {
     width: 100%;
 }
 
-.start-menu__list {
-    padding: 0.2rem 0.5rem;
-}
-
 .start-menu {
     display: none;
 
@@ -160,7 +156,7 @@ a {
     top: -107px;
     left: 0;
 
-    width: 10%;
+    padding: 0.2rem 0.5rem;
 
     background-color: #BCBFBC;
     border: 1px solid grey;
